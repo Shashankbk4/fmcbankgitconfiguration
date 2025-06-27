@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to FMCBank accounts relateds local APIs "
   contactDetails:
     name: "Ramlocal - Developer"
-    email: "ddab84444e86ec8c856ccdee1538b9715446c0c781fa089d16cf4496d89dcee4988b49f0ca1008a35cac270e79151afa"
+    email: "{cipher}ddab84444e86ec8c856ccdee1538b9715446c0c781fa089d16cf4496d89dcee4988b49f0ca1008a35cac270e79151afa"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
