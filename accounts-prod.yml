@@ -6,7 +6,7 @@ build:
 accounts:
   message: "Welcome to FMCBank accounts related prod APIs "
   contactDetails:
-    name: "RamaccountsProd - Product Owner"
+    name: "06606bf41ae998cfee1c314a6da09126dcaf88c8c5fd5de9d3f943544ca45b77c99b08cef1e794e9c6fdc9f6a63e1ce0"
     email: "RamaccountsProd@fmcbank.com"
   onCallSupport:
     - (617) 432-2356
